@@ -13,7 +13,7 @@ class UpcommingViewController: UIViewController {
         super.viewDidLoad()
 
       
-      
+        view.backgroundColor = .systemBackground
         
     }
     
